@@ -1,0 +1,9 @@
+Package: com.joemerlino.raiadblocker
+Name: RaiAdBlocker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Prevent ads in RaiPlay
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
